@@ -1,0 +1,17 @@
+body
+{   padding: 1em;
+    background: burlywood;
+}
+.friend{
+background-color:blanchedalmond;
+border: blue solid 1px;
+padding: 1em;
+border-radius: 20px;
+}
+.friend>h3
+{
+    text-transform: uppercase;
+}
+h1{
+    color: darkblue;
+}
